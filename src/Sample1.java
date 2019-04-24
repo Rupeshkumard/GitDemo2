@@ -2,7 +2,7 @@
 public class Sample1 {
 
 	public static void main(String[] args) {
-		System.out.println("from sample 1S");
+		System.out.println("fro sample 1S");
 	}
 
 }
